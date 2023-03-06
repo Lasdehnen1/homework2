@@ -98,6 +98,6 @@ public class Main {
         System.out.println("Всего работников в компании — " + workerQuantity + " человек");
         workerQuantity = workerQuantity + 94;
         overallTime = workerQuantity * oneShift;
-        System.out.println("Если в компании работает " + workerQuantity + " человек, то всего " + overallTime + " часов работы может быть поделено между сотрудниками");
+        System.out.println("Если в компании работает " + workerQuantity + " человек, то всего " + overallTime + " часов работы может быть поделено между сотрудниками.");
     }
 }
